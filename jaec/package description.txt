@@ -1,0 +1,4 @@
+Jie Yang @ Dublin Feb 2013
+
+all classes relevant to the AEC implemenation are in this package "jaec".
+Only this package is necessary for the final distribution, and "testmain" package can be removed completely.

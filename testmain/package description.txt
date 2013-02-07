@@ -1,0 +1,3 @@
+Jie Yang @ Dublin Feb 2013
+
+all classes in this package "testmain" are used for personal testing of AEC implementation.
